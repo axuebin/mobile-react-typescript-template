@@ -80,7 +80,7 @@
     "babel-plugin-import": "^1.12.2",
     "eslint": "^6.6.0",
     "eslint-config-react": "^1.1.7",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^3.0.0"
   },
   "browserslist": [
